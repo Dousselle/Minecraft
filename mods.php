@@ -1,6 +1,6 @@
 <?php
 const EXTFILES_URL = 'https://github.com/Dousselle/Minecraft/tree/6930c81097b274d42ecbaf6d44b8fe9132ae904c/mods';
-const EXTFILES_FOLDER = __DIR__ . '/extfiles';
+const EXTFILES_FOLDER = __DIR__ . '/mods';
 $json = [
     'extfiles' => []
 ];
